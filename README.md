@@ -1,1 +1,1 @@
-Tutorial project for learning React, GitHub Pages
+Tutorial project for learning React, Redux, GitHub Pages
